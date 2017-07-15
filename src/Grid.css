@@ -9,7 +9,7 @@
 	width : 100%;
 	height : 100%;
 	line-height : 100%;
-	font-size : 12px;
+	font-size : 14px;
 	background-color : #fff;
 	white-space : nowrap;
 	overflow : hidden;
@@ -62,7 +62,7 @@
 	/* Base body container */
 	width : 100%;
 	height : 100%;
-	overflow : scroll;
+	overflow : auto;
 }
 .g_Foot {
 	/* Base footer container */
